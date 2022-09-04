@@ -1,1 +1,3 @@
-## Bootcamp kapsamında verilen tüm araştırma ödevlerini tek bir repo altında toplamak için oluşturulmuştur.
+## Bootcamp tüm araştırma ödevlerini tek repo altında toplamak için oluşturulmuştur.
+
+
